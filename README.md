@@ -33,3 +33,6 @@
 ---
 
 <img src='https://count.getloli.com/get/@mtrong100?theme=moebooru' alt='visitor count' width="100%" />
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Life+as+NPC)](https://git.io/typing-svg)
