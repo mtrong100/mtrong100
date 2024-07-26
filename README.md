@@ -43,6 +43,12 @@
 
 ---
 
+## ✨ My contribution:
+
+![snake gif](https://github.com/mtrong100/mtrong100/blob/output/github-contribution-grid-snake-dark.svg)
+
+---
+
 ## ✨ GitHub View Counts:
 
 <img src='https://moe-counter.glitch.me/get/@mtrong100?theme=moebooru' alt='visitor count' width="100%" />
