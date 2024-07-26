@@ -1,4 +1,4 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello World ! </h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi I'm NguyenTrong ! </h1>
 
 ---
 
@@ -6,9 +6,23 @@
 
 ---
 
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,vuejs,tailwindcss,nodejs,mongodb,firebase,git,github,vercel&perline=8" />
-</div>
+## 💻 Technologies:
+
+<h3>Front-end</h3>
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,react,vuejs,tailwindcss,redux,pinia)](https://skillicons.dev)
+
+<h3>Back-end</h3>
+  
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express)](https://skillicons.dev)
+
+<h3>Database</h3>
+
+[![My Skills](https://skillicons.dev/icons?i=mongo,mysql,firebase)](https://skillicons.dev)
+
+<h3>Tools</h3>
+
+[![My Skills](https://skillicons.dev/icons?i=figma,git,github,vscode,postman,vercel)](https://skillicons.dev)
 
 ---
 
@@ -28,4 +42,7 @@
 <table>
 
 ---
+
+## ✨ GitHub View Counts:
+
 <img src='https://moe-counter.glitch.me/get/@mtrong100?theme=moebooru' alt='visitor count' width="100%" />
