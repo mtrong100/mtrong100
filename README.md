@@ -4,7 +4,6 @@
 
 <img src='https://i.pinimg.com/originals/06/e2/0f/06e20fac9ae6bd96981f8da9ee81d48f.gif' alt='NguyenTrong' align='center' width='100%' height='auto'/>
 
-
 ---
 
 <div align="center">
@@ -28,11 +27,5 @@
 </tr>
 <table>
 
-
-
 ---
-
-<img src='https://count.getloli.com/get/@mtrong100?theme=moebooru' alt='visitor count' width="100%" />
-
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Life+as+NPC)](https://git.io/typing-svg)
+<img src='https://moe-counter.glitch.me/get/@mtrong100?theme=moebooru' alt='visitor count' width="100%" />
