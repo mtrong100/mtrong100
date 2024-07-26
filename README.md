@@ -7,7 +7,7 @@
 ---
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,sass,js,react,vuejs,nodejs,mongodb,firebase,tailwindcss,git,github,vercel&perline=8" />
+    <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,vuejs,tailwindcss,nodejs,mongodb,firebase,git,github,vercel&perline=8" />
 </div>
 
 ---
