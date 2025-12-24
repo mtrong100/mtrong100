@@ -49,9 +49,11 @@
 
 ---
 
-## 📊 GitHub Overview
+## 🏆 GitHub Achievements
 
-![Metrics](https://raw.githubusercontent.com/mtrong100/mtrong100/main/github-metrics.svg)
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=mtrong100&theme=tokyonight&no-frame=true&row=1)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mtrong100&theme=tokyo-night&hide_border=true)
 
 ---
 
