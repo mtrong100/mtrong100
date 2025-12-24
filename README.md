@@ -49,31 +49,9 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Overview
 
-<table width="100%">
-<tr>
-<td width="50%">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=mtrong100&show_icons=true&theme=tokyonight&hide_border=true" 
-    width="100%"
-  />
-</td>
-<td width="50%">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtrong100&layout=compact&theme=tokyonight&hide_border=true" 
-    width="100%"
-  />
-</td>
-</tr>
-</table>
-
-<p align="center">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=mtrong100&theme=tokyonight&hide_border=true" 
-    width="70%"
-  />
-</p>
+![Metrics](https://raw.githubusercontent.com/mtrong100/mtrong100/main/github-metrics.svg)
 
 ---
 
