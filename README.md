@@ -1,58 +1,110 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi I'm Gnort! </h1>
+<h1 align="center">
+  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
+  Hi, I'm Gnort 👋
+</h1>
+
+<h3 align="center">
+  Front-end Developer | UI Lover | JavaScript Enthusiast
+</h3>
+
+<p align="center">
+  <a href="https://github.com/mtrong100">
+    <img src="https://komarev.com/ghpvc/?username=mtrong100&style=for-the-badge&color=ff69b4" />
+  </a>
+</p>
 
 ---
 
-<img src='https://i.pinimg.com/originals/06/e2/0f/06e20fac9ae6bd96981f8da9ee81d48f.gif' alt='NguyenTrong' align='center' width='100%' height='auto'/>
+<img 
+  src="https://i.pinimg.com/originals/06/e2/0f/06e20fac9ae6bd96981f8da9ee81d48f.gif" 
+  alt="coding" 
+  width="100%" 
+/>
 
 ---
 
-## 💻 Technologies:
+## 🚀 About Me
 
-<h3>Front-end</h3>
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,react,vuejs,tailwindcss,redux,pinia,flutter,electron,materialui,nextjs)](https://skillicons.dev)
-
-<h3>Back-end</h3>
-  
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,python)](https://skillicons.dev)
-
-<h3>Database</h3>
-
-[![My Skills](https://skillicons.dev/icons?i=mongo,mysql,firebase)](https://skillicons.dev)
-
-<h3>Tools</h3>
-
-[![My Skills](https://skillicons.dev/icons?i=figma,git,github,vscode,postman,vercel,netlify,npm,notion)](https://skillicons.dev)
+- 🎯 Focused on **Front-end & UI/UX**
+- 💡 Love building **clean, fast & scalable** web apps
+- ⚡ Enjoy working with **React, Vue, Next.js**
+- 🌱 Always learning new tech & best practices
+- ☕ Coffee-powered developer
 
 ---
 
-## ✨ GitHub Stats:
+## 🛠️ Tech Stack
+
+### 🎨 Front-end
+[![Frontend](https://skillicons.dev/icons?i=html,css,sass,js,ts,react,vue,tailwind,redux,pinia,materialui,nextjs,flutter,electron)](https://skillicons.dev)
+
+### ⚙️ Back-end
+[![Backend](https://skillicons.dev/icons?i=nodejs,express,python)](https://skillicons.dev)
+
+### 🗄️ Database
+[![Database](https://skillicons.dev/icons?i=mongo,mysql,firebase)](https://skillicons.dev)
+
+### 🧰 Tools & Platforms
+[![Tools](https://skillicons.dev/icons?i=git,github,vscode,figma,postman,vercel,netlify,npm,notion)](https://skillicons.dev)
+
+---
+
+## 📊 GitHub Stats
 
 <table width="100%">
 <tr>
-  <td width="55%">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtrong100&theme=dracula&layout=compact&show_icons=true&hide_border=true" width="100%" />
-  </td>
-
-  <td width="45%">
-    <img src="https://github-readme-stats.vercel.app/api?username=mtrong100&theme=dracula&show_icons=true&hide=contribs,issues&hide_border=true" width="100%" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mtrong100&theme=tokyonight&hide_border=true&mode=weekly" width="100%" />
-  </td>
+<td width="50%">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=mtrong100&show_icons=true&theme=tokyonight&hide_border=true" 
+    width="100%"
+  />
+</td>
+<td width="50%">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtrong100&layout=compact&theme=tokyonight&hide_border=true" 
+    width="100%"
+  />
+</td>
 </tr>
-<table>
+</table>
+
+<p align="center">
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=mtrong100&theme=tokyonight&hide_border=true" 
+    width="70%"
+  />
+</p>
 
 ---
 
-## ✨ My contribution:
+## 🐍 Contribution Snake
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-</picture>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" 
+      srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" 
+      srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+    <img 
+      alt="github contribution snake" 
+      src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg"
+    />
+  </picture>
+</p>
 
 ---
 
-## ✨ GitHub View Counts:
+## 👀 Profile Visitors
 
-<img src='https://moe-counter.glitch.me/get/@mtrong100?theme=moebooru' alt='visitor count' width="100%" />
+<p align="center">
+  <img 
+    src="https://moe-counter.glitch.me/get/@mtrong100?theme=moebooru" 
+    alt="visitor count"
+  />
+</p>
+
+---
+
+<p align="center">
+  ⭐ If you like my work, consider following me!
+</p>
