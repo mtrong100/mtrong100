@@ -10,11 +10,11 @@
 
 <h3>Front-end</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,react,vuejs,tailwindcss,redux,pinia)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,react,vuejs,tailwindcss,redux,pinia,flutter,electron,materialui,nextjs)](https://skillicons.dev)
 
 <h3>Back-end</h3>
   
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,python)](https://skillicons.dev)
 
 <h3>Database</h3>
 
@@ -22,7 +22,7 @@
 
 <h3>Tools</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=figma,git,github,vscode,postman,vercel)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma,git,github,vscode,postman,vercel,netlify,npm,notion)](https://skillicons.dev)
 
 ---
 
