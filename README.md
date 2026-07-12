@@ -54,14 +54,14 @@
 
 ## 🛎️ Services
 
-| Service | Description |
-|---|---|
-| 🌐 **PWA Development** | Building progressive web apps, offline-first, installable like native apps |
-| ⚛️ **React + Vite Apps** | Modern, high-performance web apps with backend integration (Supabase/Firebase) |
-| 🧩 **Chrome Extensions** | Developing custom browser extensions |
-| 🎨 **UI/UX Design** | Interface design following Material Design 3, bilingual VI/EN |
-| 🔗 **API Integration** | Integrating third-party APIs (Google Sheets, API Ninjas, OAuth, etc.) |
-| 🛠️ **Full-stack Solutions** | End-to-end solutions from frontend to backend and database |
+| Service                     | Description                                                                    |
+| --------------------------- | ------------------------------------------------------------------------------ |
+| 🌐 **PWA Development**      | Building progressive web apps, offline-first, installable like native apps     |
+| ⚛️ **React + Vite Apps**    | Modern, high-performance web apps with backend integration (Supabase/Firebase) |
+| 🧩 **Chrome Extensions**    | Developing custom browser extensions                                           |
+| 🎨 **UI/UX Design**         | Interface design following Material Design 3, bilingual VI/EN                  |
+| 🔗 **API Integration**      | Integrating third-party APIs (Google Sheets, API Ninjas, OAuth, etc.)          |
+| 🛠️ **Full-stack Solutions** | End-to-end solutions from frontend to backend and database                     |
 
 ---
 
@@ -103,6 +103,7 @@
 ## ⏱️ WakaTime Coding Stats
 
 <!--START_SECTION:waka-->
+
 ```text
 Monday - Sunday, I usually code several hours a day 🖥️
 
@@ -111,43 +112,10 @@ React                     ███████░░░░░░░░░░░
 CSS                       █████░░░░░░░░░░░░░░░   XX hrs XX mins
 HTML                      ████░░░░░░░░░░░░░░░░   XX hrs XX mins
 ```
+
 <!--END_SECTION:waka-->
 
 > 💡 This table will auto-update once you connect WakaTime + a GitHub Action (see setup guide below).
-
----
-
-## 🚀 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/gnort67/blog-web-app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gnort67&repo=blog-web-app&theme=dark&hide_border=true&bg_color=1a1a2e&title_color=d4af37&text_color=ffffff"/>
-  </a>
-  <a href="https://github.com/gnort67/link-shortener">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gnort67&repo=link-shortener&theme=dark&hide_border=true&bg_color=1a1a2e&title_color=d4af37&text_color=ffffff"/>
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/gnort67/exam-retake-scheduler">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gnort67&repo=exam-retake-scheduler&theme=dark&hide_border=true&bg_color=1a1a2e&title_color=d4af37&text_color=ffffff"/>
-  </a>
-  <a href="https://github.com/gnort67/document-wallet">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gnort67&repo=document-wallet&theme=dark&hide_border=true&bg_color=1a1a2e&title_color=d4af37&text_color=ffffff"/>
-  </a>
-</p>
-
-> ✏️ Replace `repo=` in the links above with your actual repository names.
-
----
-
-## 📫 Contact
-
-<p align="center">
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/-Email-1a1a2e?style=for-the-badge&logo=gmail&logoColor=d4af37"/></a>
-  <a href="https://facebook.com/gnort67"><img src="https://img.shields.io/badge/-Facebook-1a1a2e?style=for-the-badge&logo=facebook&logoColor=d4af37"/></a>
-  <a href="https://twitter.com/gnort67"><img src="https://img.shields.io/badge/-Twitter-1a1a2e?style=for-the-badge&logo=x&logoColor=d4af37"/></a>
-  <a href="https://t.me/gnort67"><img src="https://img.shields.io/badge/-Telegram-1a1a2e?style=for-the-badge&logo=telegram&logoColor=d4af37"/></a>
-</p>
 
 ---
 
