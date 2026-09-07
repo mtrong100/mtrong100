@@ -59,5 +59,5 @@ No unnecessary decoration. Focus on clarity, consistency, and usability.
 
 ---
 
-*"Code isn't just work — it's how I tell my story in the language of machines."*  
+*"I don't always write clean code… but when I do, it still has console.log everywhere."*  
 **— GNORT**
