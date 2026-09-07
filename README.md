@@ -1,14 +1,17 @@
 # GNORT
 
-**Full-stack Developer** · React · ASP.NET Core Web API
+**Web Developer** · React · ASP.NET Core Web API
 
 ---
 
 ### About
 
-My core strength is building **web applications** with **React** (frontend) and **ASP.NET Core Web API** (backend).
+I am a **web developer**. My core strength is building full-stack web applications — both frontend and backend.
 
-I also have working knowledge of other technologies for supporting tasks, though not at the same depth.
+Main stack: **React** (frontend) + **ASP.NET Core Web API** (backend).
+
+I also have basic knowledge of mobile apps and desktop/window tools.  
+In my free time, I enjoy building **Chrome Extensions** as a personal interest.
 
 - Bilingual products (Vietnamese / English)
 - Strong preference for **Material Design** and **minimalism**
@@ -20,18 +23,17 @@ I also have working knowledge of other technologies for supporting tasks, though
 ### Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,vite,ts,redux,dotnet,tailwind,mui,nodejs,express,mongodb,postgres,supabase,firebase,electron,git,github,vscode,figma,postman,vercel&perline=10" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,redux,dotnet,nodejs,express,python,tailwind,mui,mongodb,postgres,supabase,firebase,git,github,vscode,figma,postman,vercel&perline=10" />
 </p>
 
-| Category              | Technologies                                                                 |
-|-----------------------|------------------------------------------------------------------------------|
-| **Core (Strong)**     | React · Vite · TypeScript · Redux Toolkit · ASP.NET Core Web API · MUI · Tailwind CSS · Material Design |
-| **Frontend (Basic)**  | HTML · CSS · JavaScript · PrimeReact · Bootstrap                             |
-| **Backend (Basic)**   | Node.js · Express.js · ASP.NET MVC                                           |
-| **Database**          | MongoDB · SQLite · SQL Server · PostgreSQL · Supabase · Firebase             |
-| **Mobile & Desktop**  | React Native · Electron                                                      |
-| **Deployment**        | Vercel · Render                                                              |
-| **Tools**             | VS Code · SQL Server Management Studio · Figma · Git · GitHub · Postman      |
+| Category                | Technologies                                                                 |
+|-------------------------|------------------------------------------------------------------------------|
+| **Core – Frontend**     | HTML · CSS · JavaScript · TypeScript · React · Vite · Redux Toolkit · MUI · Tailwind CSS · Material Design · PrimeReact · Bootstrap |
+| **Core – Backend**      | ASP.NET Core Web API · ASP.NET MVC · Node.js · Express.js · Python           |
+| **Database**            | MongoDB · SQLite · SQL Server · PostgreSQL · Supabase · Firebase             |
+| **Deployment**          | Vercel · Render                                                              |
+| **Tools**               | VS Code · SQL Server Management Studio · Figma · Git · GitHub · Postman      |
+| **Basic (Mobile & Desktop)** | React Native · Electron                                                 |
 
 ---
 
@@ -39,10 +41,12 @@ I also have working knowledge of other technologies for supporting tasks, though
 
 | Focus                     | Description                                          |
 |---------------------------|------------------------------------------------------|
-| Web Applications          | React frontend + ASP.NET Core Web API backend        |
-| Full-stack Web Solutions  | End-to-end web apps with clean architecture          |
+| Web Applications          | Full-stack web apps (React + ASP.NET Core Web API)   |
+| Frontend Development      | Modern React applications with clean UI              |
+| Backend Development       | RESTful APIs with ASP.NET Core Web API               |
 
-Other platforms (PWA, Electron, React Native) — basic level only.
+Mobile apps and desktop/window tools — basic level only.  
+Chrome Extensions — personal interest / hobby.
 
 ---
 
