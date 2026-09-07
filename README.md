@@ -46,7 +46,7 @@ In my free time, I enjoy building **Chrome Extensions** as a personal interest.
 | Backend Development       | RESTful APIs with ASP.NET Core Web API               |
 
 Mobile apps and desktop/window tools basic level only.  
-Chrome Extensions — personal interest / hobby.
+Chrome Extensions personal interest / hobby.
 
 ---
 
