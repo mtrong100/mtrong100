@@ -6,7 +6,7 @@
 
 ### About
 
-I am a **web developer**. My core strength is building full-stack web applications — both frontend and backend.
+I am a **web developer**. My core strength is building full-stack web applications both frontend and backend.
 
 Main stack: **React** (frontend) + **ASP.NET Core Web API** (backend).
 
@@ -45,7 +45,7 @@ In my free time, I enjoy building **Chrome Extensions** as a personal interest.
 | Frontend Development      | Modern React applications with clean UI              |
 | Backend Development       | RESTful APIs with ASP.NET Core Web API               |
 
-Mobile apps and desktop/window tools — basic level only.  
+Mobile apps and desktop/window tools basic level only.  
 Chrome Extensions — personal interest / hobby.
 
 ---
@@ -64,4 +64,4 @@ No unnecessary decoration. Focus on clarity, consistency, and usability.
 ---
 
 *"I don't always write clean code… but when I do, it still has console.log everywhere."*  
-**— GNORT**
+**GNORT**
